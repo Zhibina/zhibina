@@ -11,3 +11,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=gitlab&logoColor=f46a25)
 ![PostgreSql](https://img.shields.io/badge/-postgre_Sql-090909?style=for-the-badge&logo=postgreSql&logoColor=d0e8fc)
 ![FastApi](https://img.shields.io/badge/-FastApi-090909?style=for-the-badge&logo=FastApi&logoColor=009889)
+
+## Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=28a0db)](https://t.me/Devochka_Taya)
